@@ -1,0 +1,27 @@
+.navbar-brand
+    {
+      font-family: Dancing Script;
+      
+    }
+.navbar-nav
+    {
+        font-size: 25px;
+        font-family: Dancing Script;
+    }
+#p1
+    {
+        color: #fff;
+        float: center;
+        text-align: center;
+        font-family: Dancing Script;
+        font-size: 300px;
+        
+    }
+body
+    {
+        background-image: url("Content/BG.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+    }
