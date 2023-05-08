@@ -1,20 +1,18 @@
-.navbar-brand
-    {
-      font-family: Dancing Script;
-      
-    }
+
 .navbar-nav
     {
+        color: #fff;
         font-size: 25px;
         font-family: Dancing Script;
     }
+
 #p1
     {
         color: #fff;
         float: center;
         text-align: center;
         font-family: Dancing Script;
-        font-size: 300px;
+        font-size: 200px;
         
     }
 body
