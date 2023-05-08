@@ -14,10 +14,10 @@
 </head>
 <body>
 
-<nav class="navbar navbar-light" style="background-color: rgb(30,95,151);">
+<nav class="navbar navbar-light" style="background-color: transparent;">
   <a class="navbar-brand" href="Home.php"><i style="color:white" class="fa-solid fa-book-open fa-xl"></i></a>
-  <button style="border-color:white" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
-  <span><i class="fa-solid fa-bars" style="color: #ffffff;"></i></span>
+  <button style="border-color:transparent" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
+  <span><i class="fa-solid fa-bars fa-xl" style="color: #ffffff;"></i></span>
   </button>
   <div class="navbar-collapse collapse " id="collapsingNavbar">
     <ul class="navbar-nav">
